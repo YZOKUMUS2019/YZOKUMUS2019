@@ -109,4 +109,5 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 Hasene Arabic Game'i tercih ettiğiniz için teşekkürler! Arapça öğrenme yolculuğunuzda size yardımcı olmaktan mutluluk duyuyoruz. 🌟
 
+
 **📱 Oyunu PWA olarak yükleyebilir, offline oynayabilirsiniz!**
